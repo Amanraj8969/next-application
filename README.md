@@ -1,3 +1,6 @@
+API POSTMAN LINK:https://www.postman.com/blue-flare-265193/workspace/library/collection/19618058-75beb91d-83b9-41df-9ac7-03d6d70c7f6b?action=share&creator=19618058
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
